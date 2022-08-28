@@ -2,7 +2,7 @@
 ### Web Developer 
 
 - Learning HTML/CSS/JS
-- Learned Python and SQL as well
+- Python/SQL
 - Love F/OSS and privacy preserving software
 - Learning and teaching
 
