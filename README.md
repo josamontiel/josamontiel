@@ -18,7 +18,7 @@
 
 <!--![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)-->
 
-![C-Language](https://img.shields.io/badge/-C-black?style=flat&logo=C&link=https://github.com/BRdhanani)
+<!--![C-Language](https://img.shields.io/badge/-C-black?style=flat&logo=C&link=https://github.com/BRdhanani)-->
 
 #### Other Tools:
 
