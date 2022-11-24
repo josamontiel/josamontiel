@@ -9,16 +9,20 @@
 
 
 
-#### Languages: 
+#### Languages in use: 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
-<!--![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)-->
+### Learning:
 
-<!--![C-Language](https://img.shields.io/badge/-C-black?style=flat&logo=C&link=https://github.com/BRdhanani)-->
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)
+
+![C-Language](https://img.shields.io/badge/-C-black?style=flat&logo=C&link=https://github.com/BRdhanani)
+
+
 
 #### Other Tools:
 
