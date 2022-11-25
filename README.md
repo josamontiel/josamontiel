@@ -1,5 +1,5 @@
 ## Joseph A. M. 
-### Software Engineer | Data Analyst | Technical Writer
+### Software Engineer || Data Engineer || Technical Writer
 
 * Learning and building out in the open
 * Free and Open Source Software
@@ -10,28 +10,34 @@
 
 
 #### Languages in use: 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)
+- JavaScript
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+- Python
 
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+- Markdown
 
-### Learning:
 
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)
+#### Learning:
+- C
 
-![C-Language](https://img.shields.io/badge/-C-black?style=flat&logo=C&link=https://github.com/BRdhanani)
+- MySQL
+
+- Shell Scripting
+
+- Jupyter Notebooks
 
 
 
 #### Other Tools:
 
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+- Visual Studio Code
 
 <!--![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)-->
 
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+- GitHub
+
+- Google (Don't lie, even SR. devs rely on Google heavily!)
 
 
 <hr>
