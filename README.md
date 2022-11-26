@@ -33,7 +33,6 @@
 
 - Visual Studio Code
 
-<!--![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)-->
 
 - GitHub
 
