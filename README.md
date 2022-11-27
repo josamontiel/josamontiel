@@ -24,7 +24,7 @@
 
 - Shell Scripting
 
-- Jupyter Notebooks
+- Data Engineering
 
 
 
@@ -32,7 +32,6 @@
 
 
 - Visual Studio Code
-
 
 - GitHub
 
