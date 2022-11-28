@@ -17,14 +17,14 @@
 - Markdown
 
 
-#### Learning:
-- C
+<!-- #### Learning: -->
+<!-- - C
 
 - MySQL
 
 - Shell Scripting
 
-- Data Engineering
+- Data Engineering -->
 
 
 
