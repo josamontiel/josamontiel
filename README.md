@@ -1,5 +1,5 @@
 ## Joseph A. M. 
-### Software Engineer || Data Engineer || Technical Writer
+### Software Engineer || Data Engineer
 
 * Learning and building out in the open
 * Free and Open Source Software
@@ -13,8 +13,6 @@
 - JavaScript
 
 - Python
-
-- Markdown
 
 
 <!-- #### Learning: -->
