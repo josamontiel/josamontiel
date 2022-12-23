@@ -1,8 +1,6 @@
 ## Joseph A. M. 
 ### Software Engineer || Data Engineer
 
-#### Working on a multifactor authenticator catered toward the healthcare sector
-
 * Learning and building out in the open
 * Free and Open Source Software
 * Online Privacy/Security Focused
@@ -12,7 +10,6 @@
 
 
 #### Languages: 
-- JavaScript
 
 - Python
 
