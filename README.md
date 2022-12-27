@@ -12,16 +12,13 @@
 #### Languages: 
 
 - Python
+- SQL
 
+#### Libraries/Frameworks:
 
-<!-- #### Learning: -->
-<!-- - C
-
-- MySQL
-
-- Shell Scripting
-
-- Data Engineering -->
+- Pandas
+- NumPy
+- (Learning Django)
 
 
 
