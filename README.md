@@ -18,7 +18,9 @@
 
 - Pandas
 - NumPy
-- (Learning Django)
+- Matplot
+- Seaborn
+
 
 
 
@@ -26,9 +28,8 @@
 
 
 - Visual Studio Code
-
 - GitHub
-
+- Jupyter
 - Google (Don't lie, even SR. devs rely on Google heavily!)
 
 
