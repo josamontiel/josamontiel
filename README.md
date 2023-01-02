@@ -1,10 +1,11 @@
 ## Joseph A. M. 
-### Software Engineer || Data Engineer
+### Data Science || Python 
 
 * Learning and building out in the open
 * Free and Open Source Software
 * Online Privacy/Security Focused
 * Contributing where I can
+* Learning Linux
 
 
 
