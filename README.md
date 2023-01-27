@@ -5,7 +5,7 @@
 * Free and Open Source Software
 * Online Privacy/Security Focused
 * Contributing where I can, and giving great documentation
-* Learning Linux (Kali)
+* Learning Linux
 
 ### Projects in the works:
 ##### [True Random Passcode Generator](https://github.com/josamontiel/tru-rand-gen)
@@ -15,7 +15,7 @@
 ### Languages: 
 
 - Python
-- SQL (SQLite)
+- SQL (MySQL/SQLite)
 
 ### Libraries/Frameworks:
 
@@ -23,6 +23,7 @@
 - NumPy
 - Matplot
 - Seaborn
+- Learning Polars (Pandas alternative)
 
 
 
