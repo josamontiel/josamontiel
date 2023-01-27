@@ -1,5 +1,5 @@
 # Joseph A. M. 
-## Data Science || Python Engineering
+## Data Science | Python
 
 * Learning and building out in the open
 * Free and Open Source Software
