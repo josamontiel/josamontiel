@@ -8,7 +8,7 @@
 * Learning Linux
 
 ### Projects in the works:
-##### [True Random Passcode Generator](https://github.com/josamontiel/tru-rand-gen)
+##### [Flukey](https://github.com/josamontiel/Flukey)
 
 ##### [Boston Median Home Sales](https://github.com/josamontiel/boston-median-house-prices)
 
@@ -20,10 +20,7 @@
 ### Libraries/Frameworks:
 
 - Pandas
-- NumPy
-- Matplot
-- Seaborn
-- Learning Polars (Pandas alternative)
+- Textual
 
 
 
