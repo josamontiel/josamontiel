@@ -16,6 +16,7 @@
 
 - Python
 - SQL (MySQL/SQLite)
+- Bash
 
 ### Libraries/Frameworks:
 
