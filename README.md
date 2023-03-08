@@ -1,26 +1,20 @@
-# Joseph A. M. 
-### Data Analytics, Software Engineering, Systems Administration
-***Python, SQL, Bash and whatever else works***
+# Joseph A. M.
+### Data Analytics, Software Engineering, and Systems Administration
 
-* Free and Open Source Software
-* OpSec, NetSec, InfoSec
-* All things are possible through great documentation
-* Learning Linux and anything else free and open source
-* Keeping data safe
 
-## Projects in the works
+Greetings, I'm Joseph - an advocate for Free and Open Source Software with expertise in Python, SQL, Bash, and any other technology that fits the job. My focus is on OpSec, NetSec, and InfoSec, ensuring that data is always kept safe.
 
-##### [Flukey](https://github.com/josamontiel/Flukey)
-**OVERVIEW:**
+I believe that great documentation is essential, and that all things are possible when backed up by it. Currently, I am learning Linux and other free and open-source technologies to enhance my skills further.
+Ongoing Projects
 
-Generating passwords is trash, having to use lengthy passwords makes me not want to use anything online ever again, but the hard truth is that it is needed to protect data. Having a generator that can live and run right in your terminal (offline I may add) is a great way to reduce the chances your stuff gets hacked. Add in a smooth UI and now you have an app with a user interface right in the terminal that evensomeone with little knowledge of command line or terminal can use with ease. 
+## Flukey
 
------------
-##### [Boston Median Home Sales](https://github.com/josamontiel/boston-median-house-prices)
-**OVERVIEW**
+[Flukey](https://github.com/josamontiel/Flukey) is an offline password generator that eliminates the need for users to remember lengthy passwords. The smooth user interface, which is right in the terminal, makes it easy to use even for people with little to no knowledge of the command line. With this app, you can generate strong passwords that will protect your data from hackers.
 
-As someone who grew up in the Boston,MA area, as well as someone who was directly affected by gentrification, real estate prices in the area has always been something I kept an eye on. Not only because it was interesting to see the progression of property prices in areas that were looked at as areas where once looked down on, but it is also a glimpse into the future for other cities/towns that surround major cities nationwide. This bit of analytical work is something that will showcase the median sale prices for homes between Jan/Jun of 2021 and 2022.
+## Boston Median Home Sales
 
-## What is in the pipeline
+As someone who grew up in the Boston area, I am interested in tracking real estate prices, which have been affected by gentrification. [This project](https://github.com/josamontiel/data-analysis/tree/main/boston-homes) is an analytical work that showcases the median sale prices for homes between Jan/Jun of 2021 and 2022. This project provides insights into the progression of property prices in areas that were once looked down on and gives a glimpse into the future of other cities/towns that surround major cities nationwide.
 
-At present I am open to working as a Data Analyst, Software engineer or work in IT in any capacity to be able to use my skills to keep data safe. Whether that is business data or just the text your're sending to your grandmother. It should all stay safe. 
+## Future Plans
+
+I am currently seeking opportunities to work as a Data Analyst, Software Engineer, or in any IT capacity to utilize my skills to keep data safe, whether it is business data or the text message you're sending to your grandmother. I am passionate about ensuring that data remains secure and will do my best to achieve this goal.
