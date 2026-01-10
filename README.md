@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm josamontiel, a SOC Analyst with a strong passion for open source, Linux, and privacy-focused technology.
+I'm josamontiel, an Azure Security Engineer with a strong passion for open source, Linux, and privacy-focused technology.
 
 ## 📫 Let's Connect!
 
