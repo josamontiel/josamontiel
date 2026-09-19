@@ -7,9 +7,13 @@ Most of my public work is **security engineering expressed as code**: governance
 ### 🔧 What I work with
 
 **Detection & Response** — Microsoft Sentinel, Defender XDR, Defender for Endpoint, KQL, MITRE ATT&CK, SOAR / Logic Apps, threat hunting
+
 **Cloud & IaC** — Azure, Bicep, ARM, Terraform, GitHub Actions CI/CD, policy-as-code, OIDC
+
 **Identity** — Entra ID, Conditional Access, MFA, RBAC, least-privilege design
+
 **Governance** — NIST CSF 2.0, NIST 800-53, CIS Controls, SOC 2, Zero Trust (SP 800-207)
+
 **Scripting** — PowerShell, Bash, KQL
 
 **Certifications:** SC-100 (Cybersecurity Architect Expert) · SC-200 (Security Operations Analyst) · CompTIA CySA+ · Security+ · Security Blue Team BTL1 · SC-900 · AZ-900
